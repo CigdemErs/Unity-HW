@@ -3,4 +3,4 @@
 Variable'lar unity editör üzerinden değiştirilebilmektedir.
 
 How to run:
-  Unity üzerinden scene run edilmesi yeterlidir.
+  Unity üzerinden scene seçildikten sonra run edilmesi yeterlidir.
